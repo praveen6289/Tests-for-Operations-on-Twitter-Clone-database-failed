@@ -9,8 +9,6 @@ const sqlite3 = require("sqlite3");
 const bcrypt = require("bcrypt");
 const jsonwebtoken = require("jsonwebtoken");
 
-const date = require("date-fns");
-
 const path = require("path");
 const dbPath = path.join(__dirname, "twitterClone.db");
 let db = null;

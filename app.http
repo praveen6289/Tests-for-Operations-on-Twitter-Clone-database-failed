@@ -20,45 +20,45 @@ Content-Type: application/json
 ### API 3
 GET http://localhost:3000/user/tweets/feed/
 Content-Type: application/json
-authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTU4ODUzMTd9.9-L4bigJjxXitP_yFHCPyvekXySCaq9Ekg9BXlNXQ-w
+authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTYxNzM0NzB9.bMeb6lnuEYdjRPjPotZyj6RLHI9J7wGBiI7BOVnCRs0
 ###API 4
 GET http://localhost:3000/user/following/
 Content-Type: application/json
-authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTU4ODUzMTd9.9-L4bigJjxXitP_yFHCPyvekXySCaq9Ekg9BXlNXQ-w
+authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTYxNzM0NzB9.bMeb6lnuEYdjRPjPotZyj6RLHI9J7wGBiI7BOVnCRs0
 
 
 ###API 5
 GET http://localhost:3000/user/followers/
 Content-Type: application/json
-authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTU4ODUzMTd9.9-L4bigJjxXitP_yFHCPyvekXySCaq9Ekg9BXlNXQ-w
+authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTYxNzM0NzB9.bMeb6lnuEYdjRPjPotZyj6RLHI9J7wGBiI7BOVnCRs0
 
 ### API 6
 GET http://localhost:3000/tweets/1/
 Content-Type: application/json
-authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTU4ODUzMTd9.9-L4bigJjxXitP_yFHCPyvekXySCaq9Ekg9BXlNXQ-w
+authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTYxNzM0NzB9.bMeb6lnuEYdjRPjPotZyj6RLHI9J7wGBiI7BOVnCRs0
 
 
 ### API 7
 GET http://localhost:3000/tweets/1/likes/
 Content-Type: application/json
-authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTU4ODUzMTd9.9-L4bigJjxXitP_yFHCPyvekXySCaq9Ekg9BXlNXQ-w
+authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTYxNzM0NzB9.bMeb6lnuEYdjRPjPotZyj6RLHI9J7wGBiI7BOVnCRs0
 
 
 ###API 8
 GET http://localhost:3000/tweets/1/replies/
 Content-Type: application/json
-authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTU4ODUzMTd9.9-L4bigJjxXitP_yFHCPyvekXySCaq9Ekg9BXlNXQ-w
+authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTYxNzM0NzB9.bMeb6lnuEYdjRPjPotZyj6RLHI9J7wGBiI7BOVnCRs0
 
 ###API 9
 GET http://localhost:3000/user/tweets/
 Content-Type: application/json
-authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTU4ODUzMTd9.9-L4bigJjxXitP_yFHCPyvekXySCaq9Ekg9BXlNXQ-w
+authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTYxNzM0NzB9.bMeb6lnuEYdjRPjPotZyj6RLHI9J7wGBiI7BOVnCRs0
 
 
 ###API 10
 POST http://localhost:3000/user/tweets/
 Content-Type: application/json
-authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTU4ODUzMTd9.9-L4bigJjxXitP_yFHCPyvekXySCaq9Ekg9BXlNXQ-w
+authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTYxNzM0NzB9.bMeb6lnuEYdjRPjPotZyj6RLHI9J7wGBiI7BOVnCRs0
 
 {
    "tweet": "The Mornings..."
@@ -68,4 +68,4 @@ authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYX
 ###API 11
 DELETE http://localhost:3000/tweets/12/
 Content-Type: application/json
-authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTU4ODUzMTd9.9-L4bigJjxXitP_yFHCPyvekXySCaq9Ekg9BXlNXQ-w
+authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyLCJpYXQiOjE2NTYxNzM0NzB9.bMeb6lnuEYdjRPjPotZyj6RLHI9J7wGBiI7BOVnCRs0
